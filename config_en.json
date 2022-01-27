@@ -559,13 +559,13 @@
             "pos": 100,
             "label": null,
             "fontFamily": "CupertinoIcons",
-            "layout": "bold",
+            "layout": "home",
             "key": "3qa2ycfm8j"
         },
         {
             "key": null,
             "layout": "list-blog",
-            "icon": "books",
+            "icon": "bold",
             "fontFamily": "CupertinoIcons",
             "label": null,
             "pos": 200
