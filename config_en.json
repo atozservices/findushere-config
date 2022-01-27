@@ -1,0 +1,742 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "bannerImage",
+            "design": "default",
+            "fit": "fitWidth",
+            "marginLeft": 20.0,
+            "items": [
+                {
+                    "category": 24,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/19369c86e6873fc2493da1e397fa6e27/travel3.jpg",
+                    "showSubcategory": false
+                },
+                {
+                    "category": 37,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1100x1292/19369c86e6873fc2493da1e397fa6e27/travel3.jpg",
+                    "showSubcategory": false
+                },
+                {
+                    "category": 34,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dd3a1ccf77d834e86dfd29a/1160x1362/4a1f8758322c3f5dc862c5bf7a9c5af3/travel5.jpg",
+                    "showSubcategory": false
+                }
+            ],
+            "marginBottom": 0.0,
+            "height": 0.5,
+            "marginRight": 20.0,
+            "marginTop": 0.0,
+            "radius": 10.0,
+            "padding": 0.0,
+            "isSlider": true,
+            "autoPlay": true,
+            "intervalTime": 3,
+            "showNumber": false,
+            "isBlur": false,
+            "showBackground": false,
+            "upHeight": 0.0
+        },
+        {
+            "fontSize": 19,
+            "paddingLeft": 10,
+            "marginLeft": 15,
+            "isSafeArea": false,
+            "radius": 6,
+            "rotate": [],
+            "showSearch": true,
+            "usePrimaryColor": true,
+            "fontWeight": 0,
+            "paddingTop": 0,
+            "textOpacity": 0.7,
+            "title": "What can we help you find?",
+            "marginBottom": 30,
+            "paddingBottom": 0,
+            "alignment": "centerLeft",
+            "marginTop": 15,
+            "height": 44,
+            "marginRight": 15,
+            "layout": "header_search",
+            "borderInput": false,
+            "paddingRight": 15
+        },
+        {
+            "noBackground": false,
+            "paddingX": 2,
+            "paddingY": 0,
+            "spacing": 5,
+            "marginTop": 0,
+            "marginY": 0,
+            "imageBorderWidth": null,
+            "type": "icon",
+            "showShortDescription": true,
+            "wrap": false,
+            "line": false,
+            "hideTitle": false,
+            "radius": 22,
+            "marginBottom": 10,
+            "labelFontSize": 14,
+            "layout": "category",
+            "marginRight": 0,
+            "marginLeft": 10,
+            "imageBorderStyle": "solid",
+            "marginX": 2,
+            "size": 1.4,
+            "imageBorderColor": null,
+            "imageSpacing": 0,
+            "items": [
+                {
+                    "title": "Home Service",
+                    "originalColor": true,
+                    "keepDefaultTitle": true,
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a083a01a71154b16a453/previews/6198a083a01a71154b16a45e/download/yp_build.png",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "showDescription": false,
+                    "category": "35"
+                },
+                {
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a084b22ee2424fb48140/previews/preview2x/download/yp_eat.png",
+                    "title": "Real Estate",
+                    "showDescription": false,
+                    "keepDefaultTitle": true,
+                    "colors": [
+                        "#333333"
+                    ],
+                    "originalColor": true,
+                    "category": "58"
+                },
+                {
+                    "originalColor": true,
+                    "showDescription": false,
+                    "keepDefaultTitle": true,
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a07a659ffd1b238f8461/previews/preview2x/download/yp_other.png",
+                    "title": "Eats & Drink",
+                    "category": null,
+                    "colors": [
+                        "#5f27cd"
+                    ]
+                },
+                {
+                    "title": "Automotive",
+                    "category": null,
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a07827901419a0af5d46/previews/6198a07827901419a0af5d62/download/yp_event.png",
+                    "showDescription": false,
+                    "keepDefaultTitle": true,
+                    "originalColor": true
+                },
+                {
+                    "image": "https://trello.com/1/cards/6198a53bbb7011588adaed05/attachments/6198a56c9b0468427c0bd3bc/previews/6198a56d9b0468427c0bd3c0/download/Icon_crab.png",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "title": "Crab",
+                    "keepDefaultTitle": true,
+                    "category": "19",
+                    "originalColor": true
+                },
+                {
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "originalColor": true,
+                    "category": "19",
+                    "keepDefaultTitle": true,
+                    "image": "https://trello.com/1/cards/6198a53bbb7011588adaed05/attachments/6198a548eb349833397cffad/previews/6198a549eb349833397cffb6/download/Icon_muffin.png",
+                    "title": "Mufin"
+                },
+                {
+                    "title": "Eggs",
+                    "image": "https://trello.com/1/cards/6198a53bbb7011588adaed05/attachments/6198a56831dc9347e8e7bbb6/previews/6198a56831dc9347e8e7bbc2/download/Icon_caviar.png",
+                    "category": "19",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "keepDefaultTitle": true,
+                    "originalColor": true
+                },
+                {
+                    "image": "https://findushere.ca/wp-content/uploads/2022/01/cropped-Icon-512x512-Pros-01-300x300.png",
+                    "title": "Insurance",
+                    "keepDefaultTitle": true,
+                    "category": "65",
+                    "showDescription": false,
+                    "colors": [
+                        "#333333"
+                    ],
+                    "originalColor": true
+                }
+            ]
+            
+        },
+        {
+            "imageBorderColor": null,
+            "line": false,
+            "imageSpacing": 0,
+            "paddingY": 5,
+            "marginX": 0,
+            "marginTop": 0,
+            "size": 1.3,
+            "type": "icon",
+            "hideTitle": false,
+            "marginY": 0,
+            "items": [
+                {
+                    "showDescription": false,
+                    "title": "Services & Supplies",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a083a01a71154b16a453/previews/6198a083a01a71154b16a45e/download/yp_build.png",
+                    "keepDefaultTitle": true,
+                    "originalColor": true,
+                    "category": "63"
+                },
+                {
+                    "colors": [
+                        "#333333"
+                    ],
+                    "showDescription": false,
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a084b22ee2424fb48140/previews/preview2x/download/yp_eat.png",
+                    "category": "75",
+                    "originalColor": true,
+                    "keepDefaultTitle": true,
+                    "title": "Classes & Training"
+                },
+                {
+                    "category": "36",
+                    "showDescription": false,
+                    "originalColor": true,
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "title": "Legal Services",
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a07a659ffd1b238f8461/previews/preview2x/download/yp_other.png",
+                    "keepDefaultTitle": true
+                },
+                {
+                    "showDescription": false,
+                    "title": "Wedding & Parties",
+                    "category": "21",
+                    "image": "https://trello.com/1/cards/619897c34b71ea18526c345a/attachments/6198a07827901419a0af5d46/previews/6198a07827901419a0af5d62/download/yp_event.png",
+                    "colors": [
+                        "#5f27cd"
+                    ],
+                    "keepDefaultTitle": true,
+                    "originalColor": true
+                },
+                {
+                    "title": "Retail Store",
+                    "originalColor": true,
+                    "showDescription": false,
+                    "keepDefaultTitle": true,
+                    "colors": [
+                        "#333333"
+                    ],
+                    "category": null,
+                    "image": "https://trello.com/1/cards/6198a53bbb7011588adaed05/attachments/6198a56a0e18e685ff54324d/previews/6198a56b0e18e685ff543260/download/Icon_rolls.png"
+                },
+              
+                {
+                    "colors": [
+                        "#333333"
+                    ],
+                    "keepDefaultTitle": true,
+                    "image": "https://findushere.ca/wp-content/uploads/2022/01/cropped-Icon-512x512-Pros-01-300x300.png",
+                    "originalColor": true,
+                    "showDescription": false,
+                    "title": "Religion",
+                    "category": "67"
+                }
+            ],
+            "showShortDescription": true,
+            "noBackground": false,
+            "labelFontSize": 14,
+            "radius": 18,
+            "layout": "category",
+            "marginRight": 0,
+            "paddingX": 0,
+            "marginLeft": 10,
+            "wrap": false,
+            "imageBorderStyle": "solid",
+            "spacing": 2,
+            "marginBottom": 8,
+            "imageBorderWidth": null
+        },
+       {
+            "name": "Explore more",
+            "layout": "menu"
+        },
+        {
+            "hidePrice": true,
+            "cardDesign": "card",
+            "enableBottomAddToCart": false,
+            "borderRadius": 3,
+            "showCartButton": false,
+            "showCartButtonWithQuantity": false,
+            "hideStore": false,
+            "isSnapping": false,
+            "showStockStatus": true,
+            "imageBoxfit": "cover",
+            "backgroundWidthMode": true,
+            "showCartIcon": true,
+            "hMargin": 6,
+            "showCartIconColor": false,
+            "backgroundHeight": 250,
+            "layout": "threeColumn",
+            "category": "35",
+            "hPadding": 0,
+            "vMargin": 0,
+            "showHeart": false,
+            "name": "Home Services",
+            "rows": 2,
+            "showQuantity": false,
+            "imageRatio": 1.2,
+            "cartIconRadius": 9,
+            "vPadding": 0,
+            "hideTitle": false,
+            "enableRating": true,
+            "columns": 3,
+            "backgroundRadius": 10
+        },
+        {
+            "isSnapping": false,
+            "imageBoxfit": "cover",
+            "showStockStatus": true,
+            "showQuantity": false,
+            "boxShadow": {
+                "y": 10,
+                "colorOpacity": 0.1,
+                "x": 0,
+                "blurRadius": 10,
+                "spreadRadius": 10
+            },
+            "backgroundWidthMode": true,
+            "category": "58",
+            "imageRatio": 1.2,
+            "showCartIcon": true,
+            "vPadding": 0,
+            "hMargin": 6,
+            "enableBottomAddToCart": false,
+            "layout": "threeColumn",
+            "showCartIconColor": false,
+            "backgroundRadius": 10,
+            "hPadding": 0,
+            "hidePrice": true,
+            "showHeart": false,
+            "hideStore": false,
+            "name": "Real Estate",
+            "showCartButtonWithQuantity": false,
+            "borderRadius": 3,
+            "showCartButton": false,
+            "rows": 1,
+            "cartIconRadius": 9,
+            "backgroundHeight": 250,
+            "enableRating": true,
+            "vMargin": 0,
+            "cardDesign": "card",
+            "columns": 3,
+            "hideTitle": false
+        },
+        {
+            "showQuantity": false,
+            "imageBoxfit": "cover",
+            "name": "Eats & Drink",
+            "backgroundRadius": 10,
+            "backgroundWidthMode": true,
+            "showCartIconColor": false,
+            "imageRatio": 1.2,
+            "borderRadius": 3,
+            "columns": 3,
+            "hideStore": false,
+            "enableRating": true,
+            "layout": "threeColumn",
+            "showStockStatus": true,
+            "showCartButtonWithQuantity": false,
+            "hPadding": 0,
+            "vPadding": 0,
+            "category": "62",
+            "rows": 1,
+            "backgroundHeight": 250,
+            "enableBottomAddToCart": false,
+            "boxShadow": {
+                "y": 10,
+                "colorOpacity": 0.1,
+                "blurRadius": 10,
+                "x": 0,
+                "spreadRadius": 10
+            },
+            "cartIconRadius": 9,
+            "showHeart": false,
+            "vMargin": 0,
+            "showCartButton": false,
+            "cardDesign": "card",
+            "hidePrice": false,
+            "hMargin": 6,
+            "isSnapping": false,
+            "hideTitle": false,
+            "showCartIcon": true
+        },
+        {
+            "showCartIconColor": false,
+            "imageRatio": 1.2,
+            "showCartIcon": true,
+            "columns": 3,
+            "hMargin": 6,
+            "layout": "threeColumn",
+            "hidePrice": false,
+            "backgroundRadius": 10,
+            "category": "60",
+            "borderRadius": 3,
+            "showCartButton": false,
+            "backgroundHeight": 250,
+            "imageBoxfit": "cover",
+            "showQuantity": false,
+            "hideTitle": false,
+            "isSnapping": false,
+            "hideStore": false,
+            "showHeart": false,
+            "showStockStatus": true,
+            "enableRating": true,
+            "vPadding": 0,
+            "enableBottomAddToCart": false,
+            "showCartButtonWithQuantity": false,
+            "name": "Automotive",
+            "hPadding": 0,
+            "backgroundWidthMode": true,
+            "vMargin": 0,
+            "boxShadow": {
+                "colorOpacity": 0.1,
+                "blurRadius": 10,
+                "x": 0,
+                "y": 10,
+                "spreadRadius": 10
+            },
+            "cartIconRadius": 9,
+            "cardDesign": "card",
+            "rows": 1
+        },
+        {
+            "showCartButtonWithQuantity": false,
+            "category": "68",
+            "hidePrice": false,
+            "backgroundRadius": 10,
+            "showHeart": false,
+            "backgroundWidthMode": true,
+            "name": "Retail Store",
+            "hideStore": false,
+            "borderRadius": 3,
+            "imageRatio": 1.2,
+            "showQuantity": false,
+            "showStockStatus": true,
+            "cartIconRadius": 9,
+            "showCartButton": false,
+            "showCartIconColor": false,
+            "hPadding": 0,
+            "cardDesign": "card",
+            "layout": "threeColumn",
+            "vMargin": 0,
+            "imageBoxfit": "cover",
+            "backgroundHeight": 250,
+            "columns": 3,
+            "enableBottomAddToCart": false,
+            "showCartIcon": true,
+            "rows": 1,
+            "hMargin": 6,
+            "vPadding": 0,
+            "hideTitle": false,
+            "isSnapping": false,
+            "boxShadow": {
+                "x": 0,
+                "colorOpacity": 0.1,
+                "y": 10,
+                "blurRadius": 10,
+                "spreadRadius": 10
+            },
+            "enableRating": true
+        },
+        {
+            "showStockStatus": true,
+            "borderRadius": 3,
+            "backgroundWidthMode": true,
+            "backgroundRadius": 10,
+            "showHeart": false,
+            "cardDesign": "card",
+            "showCartButton": false,
+            "cartIconRadius": 9,
+            "hideTitle": false,
+            "imageBoxfit": "cover",
+            "rows": 1,
+            "category": "61",
+            "isSnapping": false,
+            "showCartIconColor": false,
+            "layout": "threeColumn",
+            "vPadding": 0,
+            "hPadding": 0,
+            "imageRatio": 1.2,
+            "hMargin": 6,
+            "vMargin": 0,
+            "backgroundHeight": 250,
+            "showCartButtonWithQuantity": false,
+            "columns": 3,
+            "name": "Health Care",
+            "hideStore": false,
+            "showQuantity": false,
+            "showCartIcon": true,
+            "enableBottomAddToCart": false,
+            "enableRating": true,
+            "boxShadow": {
+                "y": 10,
+                "spreadRadius": 10,
+                "colorOpacity": 0.1,
+                "x": 0,
+                "blurRadius": 10
+            },
+            "hidePrice": false
+        }
+    ],
+   
+    "Setting": {
+        "TabBarConfig": {
+            "colorCart": null,
+            "iconSize": 22.968195913186673,
+            "marginLeft": 0,
+            "radiusTopRight": 0,
+            "TabBarFloating": {
+                "floatingType": "rectangle",
+                "location": "centerDocked",
+                "elevation": null,
+                "width": null,
+                "radius": null,
+                "position": 2,
+                "color": "ffff672d",
+                "height": null
+            },
+            "marginTop": 0,
+            "paddingBottom": 0,
+            "TabBarIndicator": {
+                "height": null,
+                "topRightRadius": null,
+                "strokeWidth": null,
+                "distanceFromCenter": null,
+                "bottomRightRadius": null,
+                "topLeftRadius": null,
+                "verticalPadding": null,
+                "color": null,
+                "tabPosition": "bottom",
+                "radius": null,
+                "horizontalPadding": null,
+                "paintingStyle": "fill",
+                "bottomLeftRadius": null
+            },
+            "colorIcon": "ff7a7b7f",
+            "showFloatingClip": false,
+            "radiusBottomLeft": 0,
+            "marginBottom": 0,
+            "isSafeArea": true,
+            "radiusTopLeft": 0,
+            "paddingRight": 0,
+            "showFloating": true,
+            "enable": true,
+            "marginRight": 0,
+            "radiusBottomRight": 0,
+            "color": null,
+            "colorActiveIcon": "ffff672d",
+            "indicatorStyle": "none",
+            "paddingTop": 0,
+            "paddingLeft": 0
+        },
+        "MainColor": "#3FC1BE",
+        "ProductListLayout": "list",
+        "FontFamily": "Roboto"
+    },
+    "TabBar": [
+        {
+            "icon": "home",
+            "pos": 100,
+            "label": null,
+            "fontFamily": "CupertinoIcons",
+            "layout": "home",
+            "key": "3qa2ycfm8j"
+        },
+        {
+            "key": null,
+            "layout": "list-blog",
+            "icon": "bold",
+            "fontFamily": "CupertinoIcons",
+            "label": null,
+            "pos": 200
+        },
+        {
+            "icon": "chair_rounded",
+            "categories": [
+                "60",
+                "75",
+                "61",
+                "35",
+                "65",
+                "36",
+                "66",
+                "37",
+                "58",
+                "67",
+                "62",
+                "68",
+                "63",
+                "39",
+                "21"
+            ],
+            "layout": "category",
+            "fontFamily": "MaterialIcons",
+            "categoryLayout": "card",
+            "pos": 300,
+            "images": null,
+            "label": null,
+            "key": "3qa2ycfm8j"
+        },
+        {
+            "fontFamily": "CupertinoIcons",
+            "icon": "search",
+            "label": null,
+            "pos": 400,
+            "layout": "search",
+            "key": "3qa2ycfm8j"
+        },
+        {
+            "pos": 500,
+            "label": null,
+            "fontFamily": "CupertinoIcons",
+            "settings": null,
+            "background": null,
+            "icon": "person",
+            "layout": "profile",
+            "key": "3qa2ycfm8j"
+        }
+    ],
+    "Drawer": {
+        "filter": 0,
+        "subDrawerItem": {},
+        "logo": "https://findushere.ca/wp-content/uploads/2022/01/Find-us-logo-03-02-01-min-300x55.png",
+        "logoConfig": {
+            "marginLeft": 5,
+            "marginTop": 26,
+            "marginRight": 0,
+            "boxFit": "cover",
+            "marginBottom": 10,
+            "height": 38
+        },
+        "key": "kvju59rr7q",
+        "items": [
+            {
+                "show": true,
+                "type": "home"
+            },
+            {
+                "type": "blog",
+                "show": true
+            },
+            {
+                "type": "categories",
+                "show": true
+            },
+            {
+                "type": "profile",
+                "show": true
+            },
+            {
+                "type": "login",
+                "show": true
+            },
+            {
+                "type": "category",
+                "show": true
+            }
+        ]
+    },
+    
+    "AppBar": {
+        "showOnScreens": [
+            "home",
+            "category"
+        ],
+        "items": [
+            {
+                "marginRight": 4,
+                "pos": 100,
+                "marginLeft": 16,
+                "fontFamily": "CupertinoIcons",
+                "iconSize": 24,
+                "paddingBottom": 4,
+                "textOpacity": 0.5,
+                "type": "icon",
+                "size": 40,
+                "alignment": "center",
+                "icon": "square_grid_2x2",
+                "marginBottom": 4,
+                "paddingLeft": 4,
+                "fontSize": 16,
+                "backgroundColor": "0",
+                "action": "menu",
+                "paddingTop": 4,
+                "marginTop": 4,
+                "fontWeight": "400",
+                "paddingRight": 4,
+                "key": "gbs354efgo",
+                "radius": 18
+            },
+            {
+                "fontSize": 18,
+                "paddingRight": 4,
+                "textOpacity": 0.8,
+                "iconSize": 24,
+                "fontWeight": "800",
+                "marginBottom": 4,
+                "alignment": "center",
+                "type": "text",
+                "fontFamily": "CupertinoIcons",
+                "paddingBottom": 4,
+                "backgroundColor": "ffffffff",
+                "marginLeft": 4,
+                "paddingLeft": 4,
+                "pos": 200,
+                "marginTop": 4,
+                "key": "wuay3d17jl",
+                "action": "home",
+                "radius": 16,
+                "paddingTop": 4,
+                "icon": "location",
+                "title": "FIND US HERE",
+                "marginRight": 4,
+                "size": 20
+            },
+            {
+                "textOpacity": 0.5,
+                "fontFamily": "CupertinoIcons",
+                "type": "image",
+                "icon": "person",
+                "paddingRight": 4,
+                "paddingLeft": 4,
+                "fontWeight": "400",
+                "alignment": "center",
+                "pos": 300,
+                "marginBottom": 4,
+                "marginRight": 25,
+                "size": 44,
+                "image": "https://findushere.ca/wp-content/uploads/2022/01/Icon-1024x1024-01-min-300x300.png",
+                "iconSize": 24,
+                "marginTop": 4,
+                "paddingBottom": 4,
+                "paddingTop": 4,
+                "key": "tugncdk4ly",
+                "action": "none",
+                "radius": 24,
+                "fontSize": 16,
+                "marginLeft": 4
+            }
+        ]
+    }
+    
+}
