@@ -565,7 +565,7 @@
         {
             "key": null,
             "layout": "list-blog",
-            "icon": "post",
+            "icon": "library_books",
             "fontFamily": "CupertinoIcons",
             "label": null,
             "pos": 200
