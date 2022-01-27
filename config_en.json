@@ -170,7 +170,7 @@
                     "originalColor": true
                 }
             ]
-            
+
         },
         {
             "imageBorderColor": null,
@@ -239,7 +239,7 @@
                     "category": null,
                     "image": "https://trello.com/1/cards/6198a53bbb7011588adaed05/attachments/6198a56a0e18e685ff54324d/previews/6198a56b0e18e685ff543260/download/Icon_rolls.png"
                 },
-              
+
                 {
                     "colors": [
                         "#333333"
@@ -498,7 +498,7 @@
             "hidePrice": false
         }
     ],
-   
+
     "Setting": {
         "TabBarConfig": {
             "colorCart": null,
@@ -565,7 +565,7 @@
         {
             "key": null,
             "layout": "list-blog",
-            "icon": "post",
+            "icon": "bold",
             "fontFamily": "CupertinoIcons",
             "label": null,
             "pos": 200
@@ -656,7 +656,7 @@
             }
         ]
     },
-    
+
     "AppBar": {
         "showOnScreens": [
             "home",
@@ -738,5 +738,5 @@
             }
         ]
     }
-    
-}
+
+} 
